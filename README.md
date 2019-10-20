@@ -30,7 +30,7 @@ This contains all the slides for all the meetup which happened via https://www.m
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/mnikhilprasad/">Nikhil Prasad Maroli</a></td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/19_October_2019/Nikhil_Prasad_Maroli_Talk.pdf">Slides</a></td>
   </tr>
    <tr>
     <td><a href="https://www.linkedin.com/in/samiranroy/">Samiran Roy</a></td>
