@@ -22,5 +22,19 @@ This contains all the slides for all the meetup which happened via https://www.m
     <td><a href="https://www.linkedin.com/in/narasimhamedeme/">Narasimha Medeme</a></td>
     <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/21_September_2019/Narasimha%20Medeme_talk.pdf">Slides</a></td>
   </tr>
+    <tr>
+    <td rowspan="3">19th October 2019</td>
+    <td rowspan="3"><a href="https://www.meetup.com/Bangalore-AI-ML-Meetup/events/265501036/">Interesting applications of Semi-supervised learning and Computer Vision.</a></td>
+    <td><a href="https://www.linkedin.com/in/prashant83/">Prashant Kumar Rai</a></td>
+    <td><a href="">Slides</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/mnikhilprasad/">Nikhil Prasad Maroli</a></td>
+    <td><a href="">Slides</a></td>
+  </tr>
+   <tr>
+    <td><a href="https://www.linkedin.com/in/samiranroy/">Samiran Roy</a></td>
+    <td><a href="">Slides</a></td>
+  </tr>
   
 </table>
