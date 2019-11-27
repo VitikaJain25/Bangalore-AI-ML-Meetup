@@ -16,7 +16,7 @@ This contains all the slides for all the meetup which happened via https://www.m
   </tr>
    <tr>
     <td><a href="https://www.linkedin.com/in/samiranroy/">Samiran Roy</a></td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/24_August_2019/Samiran_Roy_Talk.pdf">Slides</a></td>
   </tr>
   <tr>
     <td rowspan="3">21st September 2019</td>
