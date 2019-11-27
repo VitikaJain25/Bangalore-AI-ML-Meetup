@@ -16,11 +16,11 @@ This contains all the slides for all the meetup which happened via https://www.m
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/pramod-r-05b38212/">Pramod R</a></td>
-    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/21_September_2019/Ashay_Tamhane_talk.pdf">Slides</a></td>
+    <td><Slides</a></td>
   </tr>
    <tr>
     <td><a href="https://www.linkedin.com/in/rahul-talari-65155176/">Rahul Talari</a></td>
-    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/21_September_2019/Narasimha%20Medeme_talk.pdf">Slides</a></td>
+    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/29_June_2019/Rahul_Talari_Talk.pdf">Slides</a></td>
   </tr>
   <tr>
     <td rowspan="2">20th July 2019</td>
