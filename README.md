@@ -15,7 +15,7 @@ This contains all the slides for all the meetup which happened via https://www.m
     <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/20_July_2019/Awantik_Das_Talk.pdf">Slides</a></td>
   </tr>
    <tr>
-    <td><a href="https://www.linkedin.com/in/raghavankirthivasan/">Raghavan Kirthivasan</a> <a href="https://www.linkedin.com/in/raghavankirthivasan/">Siddhanth Chandrashekar</a></td>
+    <td><a href="https://www.linkedin.com/in/raghavankirthivasan/">Raghavan Kirthivasan</a> & <a href="https://www.linkedin.com/in/siddhanthc/">Siddhanth Chandrashekar</a></td>
      <td><a href="">Slides</a></td>
   </tr>
    <tr>
