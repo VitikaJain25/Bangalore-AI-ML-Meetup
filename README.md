@@ -12,12 +12,11 @@ This contains all the slides for all the meetup which happened via https://www.m
     <td rowspan="2">20th July 2019</td>
     <td rowspan="2"><a href="https://www.meetup.com/Bangalore-AI-ML-Meetup/events/262438475/">Fraud Detection Infra (ML) & NLP for Marketing Strategy</a></td>
     <td><a href="https://www.linkedin.com/in/awantik/">Awantik Das</a></td>
-    <td>Slides</a></td>
+    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/20_July_2019/Awantik_Das_Talk.pdf">Slides</a></td>
   </tr>
    <tr>
-    <td><a href="https://www.linkedin.com/in/raghavankirthivasan/">Raghavan Kirthivasan</a></td>
-    <td><a href="https://www.linkedin.com/in/raghavankirthivasan/">Siddhanth Chandrashekar</a></td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/raghavankirthivasan/">Raghavan Kirthivasan & Siddhanth Chandrashekar</a></td>
+     <td><a href="">Slides</a></td>
   </tr>
    <tr>
     <td rowspan="2">24th August 2019</td>
