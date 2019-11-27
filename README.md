@@ -16,7 +16,7 @@ This contains all the slides for all the meetup which happened via https://www.m
   </tr>
    <tr>
     <td><a href="https://www.linkedin.com/in/raghavankirthivasan/">Raghavan Kirthivasan</a> & <a href="https://www.linkedin.com/in/siddhanthc/">Siddhanth Chandrashekar</a></td>
-     <td><a href="">Slides</a></td>
+     <td>Slides</a></td>
   </tr>
    <tr>
     <td rowspan="2">24th August 2019</td>
