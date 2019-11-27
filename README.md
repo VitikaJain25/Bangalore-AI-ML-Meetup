@@ -9,8 +9,8 @@ This contains all the slides for all the meetup which happened via https://www.m
     <th>Slides</th>
   </tr>
    <tr>
-    <td rowspan="3">24th August 2019</td>
-    <td rowspan="3"><a href="https://www.meetup.com/Bangalore-AI-ML-Meetup/events/263449058/">Hands-on cum Intro to ANN & creative techniques in Deep Learning</a></td>
+    <td rowspan="2">24th August 2019</td>
+    <td rowspan="2"><a href="https://www.meetup.com/Bangalore-AI-ML-Meetup/events/263449058/">Hands-on cum Intro to ANN & creative techniques in Deep Learning</a></td>
     <td><a href="https://www.linkedin.com/in/pramod-r-05b38212/">Pramod R</a></td>
     <td><a href="">Slides</a></td>
   </tr>
