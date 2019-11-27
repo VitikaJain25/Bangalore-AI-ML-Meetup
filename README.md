@@ -16,7 +16,7 @@ This contains all the slides for all the meetup which happened via https://www.m
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/pramod-r-05b38212/">Pramod R</a></td>
-    <td><Slides</a></td>
+    <td>Slides</a></td>
   </tr>
    <tr>
     <td><a href="https://www.linkedin.com/in/rahul-talari-65155176/">Rahul Talari</a></td>
