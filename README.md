@@ -12,7 +12,7 @@ This contains all the slides for all the meetup which happened via https://www.m
     <td rowspan="3">29th June 2019</td>
     <td rowspan="3"><a href="https://www.meetup.com/Bangalore-AI-ML-Meetup/events/261505376/">Machine Learning, Reinforcement Learning & Convolutional Neural Networks</a></td>
     <td><a href="https://www.linkedin.com/in/praveenraghuvanshi/">Praveen Raghuvanshi</a></td>
-    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/21_September_2019/Piyush_Makhija_talk.pdf">Slides</a></td>
+    <td><a href="https://github.com/VitikaJain25/Bangalore-AI-ML-Meetup/blob/master/29_June_2019/Praveen_Raghuvanshi_Talk.pdf">Slides</a></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/pramod-r-05b38212/">Pramod R</a></td>
